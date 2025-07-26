@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "main": "https-transfer.js",
   "scripts": {
+    "start":"node https-transfer.js",
+    "dev":"node https-transfer.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
